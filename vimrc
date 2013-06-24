@@ -10,7 +10,8 @@ filetype indent on
 syntax on
 
 "" Color
-colorscheme desert
+set background=dark
+colorscheme desertEx 
 
 "" Easier moving of code blocks
 vnoremap < <gv 
