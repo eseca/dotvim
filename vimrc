@@ -1,4 +1,6 @@
 "" Pathogen
+call pathogen#incubate()
+call pathogen#helptags()
 execute pathogen#infect()
 
 "" Numbers and  length
