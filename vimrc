@@ -13,7 +13,7 @@ syntax on
 
 "" Color
 set background=dark
-colorscheme desertEx 
+colorscheme ir_black 
 
 "" Easier moving of code blocks
 vnoremap < <gv 
