@@ -1,6 +1,6 @@
-#Installation:
+##Installation:
 
-    git clone git://github.com/eseca/dotvim.git ~/.vim
+    git clone git@github.com:eseca/dotvim.git ~/.vim
 
 Create symlinks:
 
