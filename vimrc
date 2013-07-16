@@ -12,8 +12,8 @@ filetype indent on
 syntax on
 
 "" Color
-set background=dark
 colorscheme ir_black 
+set background=light
 
 "" Easier moving of code blocks
 vnoremap < <gv 
