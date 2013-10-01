@@ -12,7 +12,7 @@ filetype indent on
 syntax on
 
 "" Color
-colorscheme ir_black 
+colorscheme candy
 set background=light
 
 "" Easier moving of code blocks
