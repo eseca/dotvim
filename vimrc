@@ -16,7 +16,7 @@ if $TERM == "xterm-256color"
     set t_Co=256
 endif
 
-colorscheme candy
+colorscheme 256-grayvim
 set background=light
 
 "" Easier moving of code blocks
