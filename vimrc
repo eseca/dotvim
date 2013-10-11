@@ -12,11 +12,9 @@ filetype indent on
 syntax on
 
 "" Color
-if $TERM == "xterm-256color"
-    set t_Co=256
-endif
+set t_Co=256
 
-colorscheme 256-grayvim
+colorscheme Monokai
 set background=light
 
 "" Easier moving of code blocks
