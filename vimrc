@@ -21,8 +21,10 @@ set background=light
 vnoremap < <gv 
 vnoremap > >gv 
 
+"" The alternative Esc.
 inoremap jj <esc>l
 
+"" Four spaces instead of tab.
 set tabstop=4
 set shiftwidth=4
 set softtabstop=4
