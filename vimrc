@@ -33,7 +33,7 @@ set smarttab
 
 "" Easier split navigations
 nnoremap <C-J> <C-W><C-W>
-nnoremap <C-K> <C-W><C-S-W>
+nnoremap <C-K> <C-W><S-W>
 
 "" More natural split opening
 set splitbelow
