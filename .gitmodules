@@ -19,6 +19,3 @@
 [submodule "bundle/css_color"]
 	path = bundle/css_color
 	url = https://github.com/vim-scripts/css_color.vim.git
-[submodule "bundle/xmledit"]
-	path = bundle/xmledit
-	url = https://github.com/sukima/xmledit.git
