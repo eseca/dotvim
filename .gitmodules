@@ -13,9 +13,9 @@
 [submodule "bundle/pydoc"]
 	path = bundle/pydoc
 	url = https://github.com/fs111/pydoc.vim.git
-[submodule "bundle/surround"]
-	path = bundle/surround
-	url = https://github.com/tpope/vim-surround.git
 [submodule "bundle/vim-gradle"]
 	path = bundle/vim-gradle
 	url = https://github.com/tfnico/vim-gradle.git
+[submodule "bundle/vim-surround"]
+	path = bundle/vim-surround
+	url = https://github.com/tpope/vim-surround.git
