@@ -14,7 +14,7 @@ syntax on
 "" Color
 set t_Co=256
 
-colorscheme Monokai
+colorscheme molokai
 set background=light
 
 "" Easier moving of code blocks
