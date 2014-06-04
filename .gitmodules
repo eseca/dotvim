@@ -22,3 +22,6 @@
 [submodule "bundle/vim-rooter"]
 	path = bundle/vim-rooter
 	url = https://github.com/airblade/vim-rooter.git
+[submodule "bundle/fountain"]
+	path = bundle/fountain
+	url = https://github.com/vim-scripts/fountain.vim.git
