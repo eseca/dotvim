@@ -45,3 +45,6 @@ let vimclojure#ParenRainbow = 1         " Rainbow parentheses'!
 
 " Settings for pydoc plugin
 let g:pydoc_open_cmd = 'vsplit' 
+
+" NERDTree side panel
+map \\ :NERDTreeToggle<CR>
