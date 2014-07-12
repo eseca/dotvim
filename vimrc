@@ -32,12 +32,17 @@ set expandtab
 set smarttab
 
 "" Easier split navigations
-nnoremap <C-J> <C-W><C-W>
-nnoremap <C-K> <C-W><S-W>
+nnoremap <C-J> <C-W><C-J>
+nnoremap <C-K> <C-W><C-K>
+nnoremap <C-L> <C-W><C-L>
+nnoremap <C-H> <C-W><C-H>
 
 "" More natural split opening
 set splitbelow
 set splitright
+
+"" Basic tab completion
+imap <Tab> <C-P>
 
 " Settings for VimClojure
 let vimclojure#HighlightBuiltins = 1    " Highlight Clojure's builtins
