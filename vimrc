@@ -53,3 +53,7 @@ let g:pydoc_open_cmd = 'vsplit'
 
 " NERDTree side panel
 map \\ :NERDTreeToggle<CR>
+
+" Vim 80 column
+highlight OverLength ctermbg=red ctermfg=white guibg=#592929
+match OverLength /\%81v.\+/
