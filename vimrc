@@ -58,6 +58,7 @@ map \\ :NERDTreeToggle<CR>
 highlight OverLength ctermbg=red ctermfg=white guibg=#592929
 match OverLength /\%81v.\+/
 
-" Ruby two spaces indentation
+" Two spaces indentation
 autocmd Filetype ruby setlocal ts=2 sts=2 sw=2
 autocmd Filetype java setlocal ts=2 sts=2 sw=2
+autocmd BufNewFile,BufReadPost *.coffee setl shiftwidth=2 expandtab
