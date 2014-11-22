@@ -37,3 +37,6 @@
 [submodule "bundle/vim-less"]
 	path = bundle/vim-less
 	url = https://github.com/groenewege/vim-less.git
+[submodule "bundle/play2vim"]
+	path = bundle/play2vim
+	url = https://github.com/gre/play2vim.git
