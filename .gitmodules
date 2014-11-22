@@ -40,3 +40,6 @@
 [submodule "bundle/play2vim"]
 	path = bundle/play2vim
 	url = https://github.com/gre/play2vim.git
+[submodule "bundle/vim-scala"]
+	path = bundle/vim-scala
+	url = https://github.com/derekwyatt/vim-scala.git
